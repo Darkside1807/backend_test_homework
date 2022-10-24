@@ -1,0 +1,2 @@
+#Added .gitignore file
+README.md 
